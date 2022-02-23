@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarrisonJBurnett
 - 👀 I’m interested in Geophysics!
-- 🌱 I’m currently learning Induced Earthquake Seismology, Geophysical Fluid Dynamics, Time series analysis 
+- 🌱 I’m currently studying Earthquake Seismology, Geophysical Fluid Dynamics and Signal Processing. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
